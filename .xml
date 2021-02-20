@@ -1,0 +1,10 @@
+<suite>
+<test>
+<classes>
+<class name=packagename.classname>
+
+
+
+</classes>
+</test>
+</suite>

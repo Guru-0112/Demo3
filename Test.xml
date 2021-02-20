@@ -1,0 +1,9 @@
+<?xml version="1.0"?>  
+
+<suite name="FlipKart">
+<test name="Login">
+<classes>
+<class name="com.TestCases"/>
+</classes>
+</test>
+</suite>
